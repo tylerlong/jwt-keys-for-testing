@@ -17,3 +17,5 @@ For your production system, you need to generate your own key pairs and keep you
 ## How to use the keys
 
 Download `keys.json` file and use keys inside to encrypt/decrypt message.
+
+If you need a public JWKS server, use https://chuntaoliu.com/jwt-keys-for-testing/jwks.json
